@@ -1,5 +1,5 @@
 # Copy-Virus
-In development, has problems but doesn't give errors since it's made with try , except blocks. Basically duplicates the files and eats your hard drive up. Caution, it's malware
+In development, has problems but doesn't give errors since it's made with try , except blocks. Basically duplicates the files and eats your hard drive up.
 
  the code does the following things:
   Copies itself to three different locations, the paths are constructed automatically. # but this doesnt work mainly because shutil module in python sucks.
